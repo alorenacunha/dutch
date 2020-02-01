@@ -1,0 +1,1 @@
+module.exports = {  url : 'root:lohdba@localhost:27019/admin'};
